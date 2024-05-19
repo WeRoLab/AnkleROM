@@ -3,6 +3,7 @@
 Run with CircuitPython on Feather nRF52840, with connections to the Adafruit microSD breakout board as well as 2 BNO085 IMUs, one of them have its I2C address jumped. If you have the Foot PCB these are wired inside.
 
 [Project Document](https://docs.google.com/document/d/1W_u-EETFl5g0VrPbvCA_e4A7lP8_Y1Yrq45xGlHE_Yg/edit#heading=h.p52diav6v98f)
+
 [Fusion Folder](https://mynd483.autodesk360.com/g/projects/20240519767317756/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uY2M0ZkN0QkVSeVc1YURQWVN5Zk9Pdw) If the link doesn't work go to the Wearbale Robotics Lab Fusion Team and select AnkleROM.
 
 ### Setup for Code Editing
